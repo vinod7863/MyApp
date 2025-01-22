@@ -1,0 +1,25 @@
+.contact-section {
+  background-color: #baa3a3;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  }
+  
+  .contact-icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .icon fa-icon {
+    font-size: 2rem;
+    color: #073461;
+    margin-bottom: 5px; 
+  }
